@@ -12,6 +12,9 @@ package estructural.bridge;
 public class EstructuralBridge {
 
     
+    
+    
+    
     public static void main(String[] args)
     {
         // Crear un objeto de tipo 'AbstraccionRefinada' indicándole un 'ImplementadorConcreto'
